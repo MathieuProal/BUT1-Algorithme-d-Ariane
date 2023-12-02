@@ -41,7 +41,7 @@ La grille se crée en suivant un protocle précis:
   * ![taille](./taille.PNG)
 
 * Choix du remplissage aléatoire:
-  * ![remplissage](./remplissage.PNG)
+  * ![remplissage](./remplissage.png)
 
 * Grille créée:
   * ![grille](./grille.PNG)
