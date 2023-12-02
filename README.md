@@ -32,37 +32,37 @@ La grille se crée en suivant un protocle précis:
 
 ###  Annexes
 * Choix de l'ouverture:
-  * ![choix ouverture](./choixouverture.PNG)
+  * ![choix ouverture](./choixouverture.png)
 
 * Ouverture d'un fichier:
-  * ![ouverture](./ouverture.PNG)
+  * ![ouverture](./ouverture.png)
 
 * Demande de la taille de la grille:
-  * ![taille](./taille.PNG)
+  * ![taille](./taille.png)
 
 * Choix du remplissage aléatoire:
   * ![remplissage](./remplissage.png)
 
 * Grille créée:
-  * ![grille](./grille.PNG)
+  * ![grille](./grille.png)
 
 * Changement de mode:
-  * ![changement](./changement.PNG)
+  * ![changement](./changement.png)
 
 * Grille modifiée après les changements:
-  * ![grille2](./grille2.PNG)
+  * ![grille2](./grille2.png)
 
 * Choix de l'algorithme:
-  * ![choixalgo](./choixalgo.PNG)  
+  * ![choixalgo](./choixalgo.png)  
 
 * Choix du mode:
-  * ![choixmode](./choixmode.PNG)    
+  * ![choixmode](./choixmode.png)    
 
 * Avancée d'une case:
-  * ![avancee](./avancee.PNG)
+  * ![avancee](./avancee.png)
 
 * Résulats de l'algorithme aléatoire en mode automatique:
-  * ![aleauto](./aleauto.PNG)
+  * ![aleauto](./aleauto.png)
 
 * Résulats de l'algorithme déterministe:
-  * ![det](./det.PNG)  
+  * ![det](./det.png)  
